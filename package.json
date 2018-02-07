@@ -1,0 +1,21 @@
+{
+  "name": "recipe-app",
+  "version": "1.0.0",
+  "description": "Allows users to manage their foods and get recipe recommendations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "food",
+    "recipe"
+  ],
+  "author": "Dan Tran",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "jsonwebtoken": "^8.1.1",
+    "mongoose": "^5.0.3"
+  }
+}
